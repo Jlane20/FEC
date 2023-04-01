@@ -56,7 +56,7 @@ const SearchInput = styled(InputBase)(({ theme }) => ({
 
 function Header() {
   return (
-    <AppHeader position="static" style={{ marginBottom: '20px'}}>
+    <AppHeader position="static" style={{ marginBottom: '40px'}}>
       <Toolbar>
         <LogoImg src={logo} alt="logo" />
         <TitleText variant="h6">

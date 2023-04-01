@@ -90,7 +90,7 @@ const QuestionsAnswers = ({ current }) => {
 
   return (
     <>
-      <div className="reviewtitle">Questions & Answers</div>
+      <div className="reviewtitle">Questions sdfdf& Answers</div>
       {qaData.length === 0 ? (
         <ElementContext.Provider value="noData">
           <ClickTracker
